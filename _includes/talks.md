@@ -13,7 +13,7 @@ Network Models with High-dimensional Data.</h4>
 <ul style="margin:0 0 5px;">
   <li>Poster at APS Global Physics Summit, March 17, 2025.</li>
   <li>Poster at Statistical Network Analysis and Beyond (SNAB), June 16, 2024
-    – <strong><em>awarded 2nd place poster</em></strong>.
+    – <strong><em>awarded 2nd place</em></strong>.
   </li>
   <li>Poster at Bernoulli–IMS 10th World Congress in Probability and Statistics, July 21, 2021.</li>
 </ul>
