@@ -9,4 +9,7 @@ permalink: /teaching/
 <h2 style="margin: 60px 0px -15px;">Teaching</h2>
 <br>
 
-- Spring 2025: [Concepts of Machine Learning](https://yaoyaoliu.web.illinois.edu/teaching/IS327/) (IS327)
+- Spring 2024: Nonparametric Inference (STAT 37400)
+- Spring 2023:  Statistical Theory and Methods II (STAT 24500)
+- Winter 2023: Statistical Theory and Methods I (STAT 24400)
+- Autumn 2023: Statistical Theory and Methods I (STAT 24400)
