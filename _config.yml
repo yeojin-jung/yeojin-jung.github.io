@@ -8,8 +8,6 @@ email: yeojinjiung (at) uchicago.edu
 keywords: yeojin jung, jung yeo jin, yeojinjung, yeo jin jung
 canonical: https://yeojin-jung.github.io
 description: Yeo Jin Jung is a PhD candidate in Statistics at the University of Chicago, working on high-dimensional data, uncertainty quantification, and data selection for large machine learning models.
-# The option is used to enable the Illinois template.
-# enable_hopkins_logo: true
 
 # The option is used to show the last update time.
 enable_last_update: false
@@ -26,11 +24,6 @@ avatar: /assets/img/profile.jpeg
 # Footnotes
 footnote: This website was built using this template.
 footnote_link: "https://github.com/yaoyao-liu/homepage"
-
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-# clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
 
 # The following files will be removed from the generated website.
 exclude:
