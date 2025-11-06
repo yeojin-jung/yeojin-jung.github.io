@@ -23,7 +23,7 @@ github_link: https://github.com/yeojin-jung
 linkedin: https://www.linkedin.com/in/yeojin-jung126/
 
 # Images 
-avatar: https://img.yliu.me/avatar_new.jpg
+avatar: ./assets/img/profile.png
 
 # Footnotes
 footnote: This website was built using this template.
