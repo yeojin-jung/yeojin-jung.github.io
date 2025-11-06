@@ -10,7 +10,7 @@ Network Models with High-dimensional Data"</em>.</li>
   <li><a href="#" onclick="toggleVis(this); return false;">Show more</a></li>
 
   <div id="newsmore" style="display:none">
-    <li><strong>[Jun. 2024]</strong> My paper, </em>"Fast Bayesian Functional Regression for Non-Gaussian Spatial Data"</em> was published at Bayesian Analysis!</li>
+    <li><strong>[Jun. 2024]</strong> My paper <em>"Fast Bayesian Functional Regression for Non-Gaussian Spatial Data"</em> was published at Bayesian Analysis!</li>
     <li><strong>[Feb. 2022]</strong> I received my M.A. in Statistics at Yonsei University.</li>
     <li><strong>[Feb. 2020]</strong> I received my B.A. in Statistics at Yonsei University.</li>
   </div>
