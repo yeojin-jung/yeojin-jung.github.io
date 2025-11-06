@@ -40,7 +40,7 @@ main:
     # image: https://img.yliu.me/teaser/imagenet3d.png
     
   - title: "Mortality prediction of patients in intensive care units using machine learning algorithms based on electronic health records"
-    authors: Min Hyuk Choi, Dokyun Kim, Eui Jun Choi, <strong>Yeo Jin Jung</strong, Yong Jun Choi, Jae Hwa Cho & Seok Hoon Jeong
+    authors: Min Hyuk Choi, Dokyun Kim, Eui Jun Choi, <strong>Yeo Jin Jung</strong>, Yong Jun Choi, Jae Hwa Cho & Seok Hoon Jeong
     conference_short: Scientific Reports
     conference: Scientific Reports. 12, 7180 (2022)
     pdf: https://www.nature.com/articles/s41598-022-11226-4
