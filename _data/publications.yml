@@ -32,7 +32,7 @@ main:
   - title: "Fast Bayesian Functional Regression for Non-Gaussian Spatial Data"
     authors: <strong>Yeo Jin Jung</strong>, Claire Donnat
     conference_short: Bayesian Analysis
-    conference: Bayesian Analysis. 19(2): 407-438 (June 2024)
+    conference: "Bayesian Analysis. 19(2): 407–438 (June 2024)"
     pdf: https://projecteuclid.org/journals/bayesian-analysis/volume-19/issue-2/Fast-Bayesian-Functional-Regression-for-Non-Gaussian-Spatial-Data/10.1214/22-BA1354.full
     # bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
     # data: https://github.com/yeojin-jung/GpLSI
