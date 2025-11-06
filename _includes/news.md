@@ -1,3 +1,5 @@
+<h2 style="margin: 60px 0px 10px;">News</h2>
+
 <ul>
   <li><strong>[Oct. 2025]</strong> I gave my PhD dissertation proposal at the University of Chicago, titled <em>"Structured Representation Learning in High Dimensions"</em>.</li>
   <li><strong>[Oct. 2025]</strong> I gave a talk at RSS 2025, titled <em>"Conditional Conformal Prediction On Large
