@@ -10,7 +10,7 @@ I am a PhD candidate in Statistics at the University of Chicago, working in the 
 
 My research focuses on statistical methods for **high-dimensional and structured data**, with applications to problems such as spatial transcriptomics, graph-based modeling, and large-scale machine learning. I also work on **conformal prediction** and **data selection** for efficient training of large generative models. I aim to develop methods that are both theoretically grounded and practically useful for complex scientific datasets.
 
-Previously, I completed my BA and MA in Statistics, where I was fortunate to be advised by [Professor Jaewoo Park](https://sites.google.com/view/jwpark88/home) and [Professor Ick Hoon Jin](https://sites.google.com/view/jinius-lab/home). During my master’s, I focused on Bayesian approaches to autologistic models and functional regression.
+Previously, I completed my BA and MA in Applied Statistics at Yonsei University in South Korea, where I was fortunate to be advised by [Professor Jaewoo Park](https://sites.google.com/view/jwpark88/home) and [Professor Ick Hoon Jin](https://sites.google.com/view/jinius-lab/home). During my master’s, I focused on Bayesian approaches to autologistic models and functional regression.
 
 {% include_relative _includes/news.md %}
 
