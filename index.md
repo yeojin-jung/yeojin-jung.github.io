@@ -12,6 +12,11 @@ My research focuses on statistical methods for **high-dimensional and structured
 
 Previously, I completed my BA and MA in Applied Statistics at Yonsei University in South Korea, where I was fortunate to be advised by [Professor Jaewoo Park](https://sites.google.com/view/jwpark88/home) and [Professor Ick Hoon Jin](https://sites.google.com/view/jinius-lab/home). During my master’s, I focused on Bayesian approaches to autologistic models and functional regression.
 
+<p style="margin-top: 20px;">
+  Here is my CV:
+  <a href="{{ '/assets/Resume_YeojinJung.pdf' | relative_url }}" target="_blank">📄 View PDF</a>
+</p>
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/contact.md %}
